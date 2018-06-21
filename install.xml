@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<plugin name="transifex">
+<module name="transifex" type="plugin">
 	<title>Transifex</title>
 	<summary>Language files importer from The Transifex</summary>
 	<author>Intelliants LLC</author>
 	<contributor>Intelliants LLC</contributor>
 	<version>1.0.0</version>
-	<date>2015-04-29</date>
-	<compatibility>3.3.0</compatibility>
+	<date>2018-06-21</date>
+	<compatibility>4.1</compatibility>
 
 	<adminpages>
 		<page name="transifex" menus="menu" url="transifex/" order="41">Transifex</page>
@@ -20,4 +20,4 @@
 		<phrase category="admin" key="successfully_imported">Phrases successfully imported.</phrase>
 		<phrase category="admin" key="upload_file">Upload file</phrase>
 	</phrases>
-</plugin>
+</module>
