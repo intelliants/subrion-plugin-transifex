@@ -4,9 +4,9 @@
 	<summary>Language files importer from The Transifex</summary>
 	<author>Intelliants LLC</author>
 	<contributor>Intelliants LLC</contributor>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<date>2018-06-21</date>
-	<compatibility>4.1</compatibility>
+	<compatibility>4.2</compatibility>
 
 	<adminpages>
 		<page name="transifex" menus="menu" url="transifex/" order="41">Transifex</page>
